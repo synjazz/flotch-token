@@ -1,5 +1,7 @@
 {
-  "name": "Flotch",
-  "symbol": "FLO",
-  "image": "https://raw.githubusercontent.com/synjazz/flotch-token/main/flotch.webp"
+  "name": "Floutch",
+  "symbol": "FLOUTCH",
+  "description": "Floutch is an Happy Worm, with the hope to give the best to the community. Follow the Worm !",
+  "image": "https://raw.githubusercontent.com/synjazz/flotch-token/main/floutch.webp",
+  "external_url": "https://floutch.media",
 }
